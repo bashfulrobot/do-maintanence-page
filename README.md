@@ -1,0 +1,3 @@
+# Static Maintanence Page
+
+WIP
